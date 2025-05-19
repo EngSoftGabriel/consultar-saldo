@@ -1,4 +1,4 @@
-# 💰 App de Conta Bancária (Java)
+# 💰 App de Conta Bancária GBNEXT (Java)
 
 Este é um projeto simples em Java que simula um **aplicativo de conta bancária**, onde o cliente pode consultar seu saldo através de uma interface de linha de comando.
 
