@@ -1,0 +1,13 @@
+# 💰 App de Conta Bancária (Java)
+
+Este é um projeto simples em Java que simula um **aplicativo de conta bancária**, onde o cliente pode consultar seu saldo através de uma interface de linha de comando.
+
+## 🚀 Funcionalidades
+
+- Login do cliente (apenas com nome)
+- Consulta de saldo bancário
+- Menu interativo no terminal
+
+## 📌 Objetivo
+
+Este projeto foi desenvolvido com fins educ
