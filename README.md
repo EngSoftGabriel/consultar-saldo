@@ -8,6 +8,9 @@ Este é um projeto simples em Java que simula um **aplicativo de conta bancária
 - Consulta de saldo bancário
 - Menu interativo no terminal
 
-## 📌 Objetivo
+## 📌 Abordagem de conceitos de POO
 
-Este projeto foi desenvolvido com fins educ
+- Encapsulamento
+- Abstração
+- Organização em classes
+- Separação de responsabilidades
